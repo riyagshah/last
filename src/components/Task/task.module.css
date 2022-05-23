@@ -1,3 +1,12 @@
 .task {
-  /* Sample  */
-}
+  display: flex;
+  
+  }
+  
+  .text1{
+    margin-left: 70px;
+    font-size: 23px;
+    margin-right: 85px;
+  }
+ 
+  
